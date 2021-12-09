@@ -19,3 +19,4 @@ Welcome to the translator! Translator supports:
 12. Russian
 13. Turkish
 ```
+You can get translations of a word/phrase from one language to another or to all languages in the list.
