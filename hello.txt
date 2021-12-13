@@ -1,0 +1,96 @@
+arabic Translations:
+مرحبا
+
+arabic Examples:
+margot, say hello to pavlov.:
+(مارجوت)،قولي مرحبًا لـ (بافالوف).
+
+
+german Translations:
+hallo
+
+german Examples:
+Finally got a personalized hello from Earl.:
+Ich habe endlich ein personifiziertes hallo von Earl bekommen.
+
+
+spanish Translations:
+hola
+
+spanish Examples:
+Well, hello, Miss Anchor-liar.:
+Bien, hola, señorita presentadora de mentiras.
+
+
+french Translations:
+bonjour
+
+french Examples:
+Goodbye England and hello the Netherlands...:
+Au revoir l'Angleterre et bonjour les Pays-Bas...
+
+
+hebrew Translations:
+שלום
+
+hebrew Examples:
+How come they never say hello?:
+איך זה שהן אף פעם לא אומרות שלום.
+
+
+japanese Translations:
+こんにちは
+
+japanese Examples:
+The little boy said hello to me.:
+小さな男の子が私にこんにちはと言った。
+
+
+dutch Translations:
+dag
+
+dutch Examples:
+Which in Hawaiian means hello and goodbye.:
+Dat betekent hallo en tot ziens in het Hawaiiaans.
+
+
+polish Translations:
+cześć
+
+polish Examples:
+You had me at "hello".:
+Wystarczyło mi twoje "cześć".
+
+
+portuguese Translations:
+olá
+
+portuguese Examples:
+Please say hello to Thurman Merman.:
+Por favor, digam olá a Thurman Merman.
+
+
+romanian Translations:
+salut
+
+romanian Examples:
+I came by to say hello.:
+Am avut o pauză de masă și am trecut să te salut.
+
+
+russian Translations:
+привет
+
+russian Examples:
+Tell her slipping' Jimmy says hello.:
+Передай ей, что Скользкий Джимми передает ей привет.
+
+
+turkish Translations:
+selam
+
+turkish Examples:
+Mash Sultan Ali, she said hello.:
+Meş Sultan Ali, kız selam verdi.
+
+
