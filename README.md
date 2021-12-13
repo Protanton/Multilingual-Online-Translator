@@ -21,3 +21,4 @@ Welcome to the translator! Translator supports:
 ```
 You can get translations of a word/phrase from one language to another or to all languages in the list.
 If you choose to translate to all languages, a file including the results is created as well. You can see a sample output file [here](https://github.com/Protanton/Multilingual-Online-Translator/blob/master/hello.txt).
+Translations are fetched from [Reverso](https://context.reverso.net/translation/) website using web scraping.
